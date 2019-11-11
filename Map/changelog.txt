@@ -1,3 +1,12 @@
 changelog ={
   [[Initial revision]],
+  [[City of New Celest significantly overhauled]],
+  [[Isle of Light is now actually in the Inner Sea]],
+  [[Cloud Maelstrom mapped]],
+  [[Shattered Earth and Glacier Sea mapped]],
+  [[Ilmdria Rest mapped]],
+  [[Chancel fully mapped]],
+  [[Inside of the Aegis of Vestera mapped]],
+  [[Lots of planar rifts and mystic pathways corrected]],
+  [[All Divine temple special exits linked]],
 }
