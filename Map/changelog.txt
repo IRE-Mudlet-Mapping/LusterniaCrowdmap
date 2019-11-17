@@ -9,5 +9,6 @@ changelog ={
   [[Inside of the Aegis of Vestera mapped]],
   [[Lots of planar rifts and mystic pathways corrected]],
   [[All Divine temple special exits linked]],
-  [[Removed area locks that were not supposed to be included. Whoops.]]
+  [[Removed area locks that were not supposed to be included. Whoops.]],
+  [[Starhopper mapped, sewer grate exits added to Magnagora and New Celest.]]
 }
