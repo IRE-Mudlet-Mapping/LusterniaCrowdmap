@@ -10,5 +10,6 @@ changelog ={
   [[Lots of planar rifts and mystic pathways corrected]],
   [[All Divine temple special exits linked]],
   [[Removed area locks that were not supposed to be included. Whoops.]],
-  [[Starhopper mapped, sewer grate exits added to Magnagora and New Celest.]]
+  [[Starhopper mapped, sewer grate exits added to Magnagora and New Celest.]],
+  [[Mapped cramped tunnels in Southern Passages, tidied up Gaudiguch.]]
 }
