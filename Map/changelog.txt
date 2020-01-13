@@ -13,4 +13,5 @@ changelog ={
   [[Starhopper mapped, sewer grate exits added to Magnagora and New Celest.]],
   [[Mapped cramped tunnels in Southern Passages, tidied up Gaudiguch.]]
   [[Mapped Jolly Drifts.]]
+  [[Mapped Mirage Prison.]]
 }
