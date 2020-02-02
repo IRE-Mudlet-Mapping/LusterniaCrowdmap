@@ -11,7 +11,8 @@ changelog ={
   [[All Divine temple special exits linked]],
   [[Removed area locks that were not supposed to be included. Whoops.]],
   [[Starhopper mapped, sewer grate exits added to Magnagora and New Celest.]],
-  [[Mapped cramped tunnels in Southern Passages, tidied up Gaudiguch.]]
-  [[Mapped Jolly Drifts.]]
-  [[Mapped Mirage Prison.]]
+  [[Mapped cramped tunnels in Southern Passages, tidied up Gaudiguch.]],
+  [[Mapped Jolly Drifts.]],
+  [[Mapped Mirage Prison.]],
+  [[Mapped Vernal Paradox. Mapped Age of Desolation. Mapped Lost Domotheos of Time (Credit: Nao), mapped Immaculate Age (Credit: Nao)]]
 }
